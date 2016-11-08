@@ -100,8 +100,8 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn-xl {
-  color: black;
-  background-color: white;
+  color: white;
+  background-color: #fed136;
   border-color: #fed136;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/muisc.gif');
+  background-image: url('../img/giphy.gif');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
